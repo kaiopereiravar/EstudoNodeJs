@@ -1,0 +1,19 @@
+- nessa aula ele rodou o comando
+
+'npm init -y'
+
+'npm install lodash'
+
+'npm install --save-dev chalk' //serve para baixar pacotes apenas para p ambiente de dev
+
+
+- ocorreu um erro durante a aula e eu tive que executar esses dois comandos
+referente a versão do chalk
+
+'npm uninstall chalk'
+
+'npm i chalk@4.1.2'
+
+- COMANDO A MAIS CITADO NA AULA
+
+'npm update'

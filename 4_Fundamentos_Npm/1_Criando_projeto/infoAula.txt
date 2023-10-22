@@ -1,0 +1,3 @@
+Nessa aula ele ensinou a criar o projeto pelo npm
+ele so rodou o comando: 'npm init
+'
