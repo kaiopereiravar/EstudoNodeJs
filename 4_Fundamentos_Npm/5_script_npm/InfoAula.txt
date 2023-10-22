@@ -1,0 +1,16 @@
+- nessa aula ele rodou o comando
+
+'npm init -y'
+
+'npm install lodash'
+
+'npm install --save-dev chalk' //serve para baixar pacotes apenas para p ambiente de dev
+
+'npm i chalk@4.1.2'
+
+
+- NESSA AULA ELE NO SPRITS LOCALIZADO NO package.json ELE COLOCOU O COMANDO 
+
+"start": "node index.js" //nesse caso ele roda com 'npm run start' ou 'npm start'
+
+ou seja, podemos adicionar scrits para rodar o que quisermos no node

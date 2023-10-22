@@ -1,0 +1,2 @@
+Para rodar o npm sem ter que responder as pergundas
+'npm init -y'

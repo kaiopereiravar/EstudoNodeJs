@@ -1,0 +1,13 @@
+Nessa aula ele rodou os comandos 
+
+'npm init -y'
+
+'npm install -g lodash' //para baixar arquivos em um repositorio global
+
+info: o lodash em especifico para ser rodado precisar rodar no terminal o 'npm link lodash' antes
+
+COMANDO DIVERTIDO:
+
+npx cowsay "mensagem que quiser"
+
+npx cowsay -d "morri!!"
