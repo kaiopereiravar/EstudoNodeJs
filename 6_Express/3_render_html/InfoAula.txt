@@ -1,0 +1,5 @@
+Nessa aula, ele executou o comando
+
+´npm init -y´
+
+´npm install express´
