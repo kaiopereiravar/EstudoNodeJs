@@ -1,0 +1,17 @@
+- Nessa aula, ele executou o comando
+
+´npm init -y´
+
+´npm install express´
+
+'npm install --save-dev nodemon' //vai baixar como dependencia de desenvolvimento
+
+- E tambem la no arquivo package.json ele adicionou um novo script
+
+"start":"nodemon ./index.js localhost 3000"
+
+O projeto roda com 'NPM START'
+nesse script ele passa o arquivo que ira ser rodado e o local + a porta
+
+
+ELE FUNCIONA AGORA IGUAL O LIVE SERVER
