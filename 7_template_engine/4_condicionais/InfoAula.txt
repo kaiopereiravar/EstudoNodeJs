@@ -1,0 +1,9 @@
+Comandos utilizados durante a atual
+
+'npm init -y'
+
+'npm install nodemon express express-handlebars'
+
+No package.json ele adicionou o script do nodemon
+
+"start": "nodemon ./index.js localhost 3000"
