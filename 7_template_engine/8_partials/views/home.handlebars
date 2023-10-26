@@ -1,0 +1,11 @@
+<h1>rodando o Handlebars</h1>
+<p>funcionou hein</p>
+{{#if approved}}
+<p>Parabéns, o seu cadastro foi promovido!</p>
+{{else}}
+<p>O seu cadastro necessita de aprovação para acesso total do sistema!</p>
+{{/if}}
+<h3>O nome desse cliente é {{user.name}}, e o usuario {{user.username}}</h3>
+{{#if auth}}{{!-- se for true ele roda o que esta dentro--}}
+<p>Voce esta autenticado, clique <a href="/dashboard">aqui</a> para ver a aula de membros</p>
+{{/if}}
